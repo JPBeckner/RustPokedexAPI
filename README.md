@@ -1,0 +1,2 @@
+# RustPokedexAPI
+Rust Pokedex API
